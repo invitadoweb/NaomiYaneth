@@ -29,6 +29,10 @@
     font-style: normal;
 }
 
+.d_none{
+    display: none;
+}
+
 /* ===========================================
    CLASES DE FUENTES REUTILIZABLES
 =========================================== */
